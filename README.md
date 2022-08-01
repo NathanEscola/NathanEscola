@@ -8,4 +8,4 @@
 NathanEscola/NathanEscola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-School gmail: nathan.valmir.martins@escola.pr.gov.br
+- 🕵️ School gmail: nathan.valmir.martins@escola.pr.gov.br
